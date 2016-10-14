@@ -1,0 +1,15 @@
+<html>
+	<body>
+		<!--Federer vs Nadal-->
+
+		<h1><%= session['jugadores'] %></h1>
+		<h3 id="score"><%= session['game'].score %></h3>
+
+		<form action="/marcar/jugador1" method="post">
+			<input type="submit" id="marcarjugador1" value="marcar j1" />
+		</form>
+		<form action="/marcar/jugador2" method="post">
+			<input type="submit" id="marcarjugador2" value="marcar j2" />
+		</form>
+	</body>
+</html>
