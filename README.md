@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains a collection of Ruby-based programming exercises and katas designed to teach Acceptance Test-Driven Development (ATDD) and Behavior-Driven Development (BDD) practices. Each sub-project demonstrates different aspects of test-driven development, from simple unit testing to full web application testing.
+This repository contains Ruby-based exercises and katas to teach Acceptance Test-Driven Development (ATDD) and Behavior-Driven Development (BDD). Each sub-project highlights aspects of test-driven development, from unit tests to full web app testing.
 
 ## Technology Stack
 
